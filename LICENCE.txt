@@ -1,0 +1,30 @@
+Private License
+
+This software is the proprietary information of [Salazar Arias Company S.A.S]. All rights reserved.
+
+1. Grant of License
+Subject to the terms and conditions of this License, [Salazar Arias Company S.A.S] grants you a limited, non-exclusive, non-transferable, non-sublicensable license to use the software solely for internal business purposes.
+
+2. Restrictions
+You shall not, and shall not permit others to:
+a. Copy, modify, or create derivative works of the software.
+b. Distribute, sell, lease, license, or sublicense the software to any third party.
+c. Reverse engineer, decompile, or disassemble the software.
+d. Remove or alter any proprietary notices or labels on the software.
+
+3. Ownership
+[Salazar Arias Company S.A.S] retains all rights, title, and interest in and to the software, including all intellectual property rights therein.
+
+4. Termination
+This License is effective until terminated. [Salazar Arias Company S.A.S] may terminate this License at any time if you breach any terms of this License. Upon termination, you must cease all use of the software and destroy all copies of the software in your possession or control.
+
+5. Disclaimer of Warranties
+The software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+6. Limitation of Liability
+In no event shall [Salazar Arias Company S.A.S] be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of the use of or inability to use the software.
+
+7. Governing Law
+This License shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles.
+
+For any inquiries, please contact: afmurillo97@gmail.com - https://www.linkedin.com/in/felipe-murillov/

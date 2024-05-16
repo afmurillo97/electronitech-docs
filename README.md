@@ -20,13 +20,16 @@
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+## Notice
+
+This project is a private project, and the source code is not available for download or cloning. For more information or to request access, please contact me directly.
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://www.electronitech.com.co" target="_blank">
-    <img src="htdocs/www.electronitech.com.co/assets/img/logo-electronitech.png" alt="Logo" width="200" height="200">
+    <img src="images/logo-electronitech.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Electronitech Proyect</h3>
@@ -46,13 +49,13 @@
 ## Screenshots
 
 <div align="center">
-  <img src="htdocs/www.electronitech.com.co/assets/img/screenshots/Screenshot_1.png" alt="Start Project" width="600">
+  <img src="images/Screenshot_1.png" alt="Start Project" width="600">
   <p>Start Project</p>
   
-  <img src="htdocs/www.electronitech.com.co/assets/img/screenshots/Screenshot_8.png" alt="Articles Section" width="600">
+  <img src="images/Screenshot_8.png" alt="Articles Section" width="600">
   <p>Articles Section</p>
   
-  <img src="htdocs/www.electronitech.com.co/assets/img/screenshots/Screenshot_7.png" alt="Graphics Section" width="600">
+  <img src="images/Screenshot_7.png" alt="Graphics Section" width="600">
   <p>Graphics Section</p>
 </div>
 
